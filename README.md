@@ -14,3 +14,7 @@ in Membership.py
 in Userinput.py
  - use ','  instead of concatenation '+' when printing
  - output screenshot might be different from code
+
+
+HOS04
+ - sortTuple.py (hos last line instruction, changing to 1 just sorts by second element - no error)
