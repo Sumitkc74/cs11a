@@ -4,6 +4,8 @@
 - codespace auto completing lines of codes.
 - opening same codespace for the second time, not a new one
 
+- try to disable copolit
+
 HOS01
 - commit not shown
 
