@@ -7,7 +7,7 @@
 - try to disable copolit
 
 HOS01
-- commit not shown
+- sync not shown
 
 HOS03
 in Membership.py 
