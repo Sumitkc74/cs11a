@@ -1,5 +1,5 @@
 def first(n):
-    return n[1]
+    return n[0]
 
 def sort_list_first(tuples):
     return sorted(tuples, key=first)

@@ -1,22 +1,29 @@
 ## ISSUES
 
-
+Need to look into
 - codespace auto completing lines of codes.
-- opening same codespace for the second time, not a new one
-
 - try to disable copolit
 
-HOS01
+- Azure payment plan
+
+HOS01  - updated
+- opening same codespace for the second time, not a new one
 - sync not shown
 
-HOS03
-in Membership.py 
- - printing {a} might give more context in just a.
+
+HOS03 - updated
 
 in Userinput.py
  - use ','  instead of concatenation '+' when printing
  - output screenshot might be different from code
 
 
-HOS04
- - sortTuple.py (hos last line instruction, changing to 1 just sorts by second element - no error)
+HOS04  - updated
+ - sortTuple.py (hos last line instruction unclear)
+
+
+HOS08 
+- click on Azure students to avoid pay
+
+HOS09  - updated
+- statements not complete (missing ')' or ',' or ';')
