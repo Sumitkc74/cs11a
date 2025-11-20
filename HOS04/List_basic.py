@@ -13,3 +13,4 @@ print("New list:", list1)
 
 list1.insert(0, 'Python')               # Inserting an element at the beginning
 print("After inserting:", list1)
+

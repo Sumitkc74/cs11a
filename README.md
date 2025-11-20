@@ -1,10 +1,11 @@
 ## ISSUES
 
 Need to look into
-- codespace auto completing lines of codes.
-- try to disable copolit
+- codespace auto completing lines of codes. - due to copilot
 
-- Azure payment plan
+- to disable copolit - go to extension and disable and reload the window to get changes
+
+- Azure payment plan - could not view since account already created
 
 HOS01  - updated
 - opening same codespace for the second time, not a new one
@@ -22,8 +23,8 @@ HOS04  - updated
  - sortTuple.py (hos last line instruction unclear)
 
 
-HOS08 
-- click on Azure students to avoid pay
+HOS08 - updated
+- screenshot for click on 'Accept offer' button for Azure students to avoid pay
 
 HOS09  - updated
 - statements not complete (missing ')' or ',' or ';')
